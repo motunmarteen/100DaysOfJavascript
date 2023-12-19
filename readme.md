@@ -6,8 +6,8 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 
 - **Course Name:** 100 Days of JavaScript:From Zero to Becoming a Pro Developer
 - **Platform:** Udemy
-- **Instructor:** [Khan School]
-- **Course Link:** [https://www.udemy.com/course/100-days-of-javascriptfrom-zero-to-becoming-a-pro-developer/]
+- **Instructor:** Khan School
+- **Course Link:** https://www.udemy.com/course/100-days-of-javascriptfrom-zero-to-becoming-a-pro-developer/
 
 ## Goals
 
