@@ -32,6 +32,13 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 - **Challenges Faced:** I am yet to fully understand why there is a need for "Strict mode" and "Sloppy mode" in javascript
 - **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day1
 
+### Day 2: 19/12/2023
+
+- **Today's Progress:** Variables and Datatypes
+- **Topics Covered:** Number, BigInt, String, Boolean, Null, Undefined, Objects and Symbols
+- **Challenges Faced:** No challenges faced so far
+- **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day2
+
 ## Projects 
 
 1. **[Project Name 1](Projects/ProjectName1):** Brief description.
