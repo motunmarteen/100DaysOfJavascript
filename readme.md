@@ -30,7 +30,7 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 - **Today's Progress:** Setting up Visual Studio Code and writing the first Javascript code
 - **Topics Covered:** Introduction to Javascript, Writing "Hello World" in Javascript and "use strict" mode in javascript
 - **Challenges Faced:** I am yet to fully understand why there is a need for "Strict mode" and "Sloppy mode" in javascript
-- **Link to Code:** [Link to code or relevant files.]
+- **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day1
 
 ## Projects 
 
