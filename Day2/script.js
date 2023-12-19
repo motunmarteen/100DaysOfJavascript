@@ -26,3 +26,6 @@ console.log(message);
 
 // Note that same name variable can  not be used to hold data like 
 // "message" word above
+
+// Variables must contain only letters, digits, or the symbol $ and _
+// reserved words can not also be used eg let, return, function, name, etc
