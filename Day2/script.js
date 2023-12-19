@@ -1,4 +1,4 @@
-// "let" keyword is used in mordern javascript to declare variables
+// "let" keyword is used in modern javascript to declare variables
 
 // let message;
 // message = "hello";
@@ -18,9 +18,13 @@
 
 // Note that the variable is like a box that is saving information
 
-let message = "hello";
+// let message = "hello";
 let message = "world";
+let word = message
+let age = 35;
 console.log(message);
+console.log(word)
+console.log(age);
 // Note that in this scenario, javascript will behind the scene remove
 // the first initialization of "hello" and replace it with "world"
 
@@ -29,3 +33,9 @@ console.log(message);
 
 // Variables must contain only letters, digits, or the symbol $ and _
 // reserved words can not also be used eg let, return, function, name, etc
+
+// Note that "node script.js" can be used to console the output of a 
+// script in the terminal
+
+// Note that a number can not start a variable name in javascript e.g let 3name = "Naima"
+// the number usage should come last or should be in the middle
