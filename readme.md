@@ -25,21 +25,18 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 
 ## Daily Log
 
-### Day 1: [Date]
+### Day 1: 18/12/2023
 
-- **Today's Progress:** [Briefly describe what you worked on today.]
-- **Topics Covered:** [List the topics or concepts learned today.]
-- **Challenges Faced:** [Any difficulties encountered during coding.]
+- **Today's Progress:** Setting up Visual Studio Code and writing the first Javascript code
+- **Topics Covered:** Introduction to Javascript, Writing "Hello World" in Javascript and "use strict" mode in javascript
+- **Challenges Faced:** I am yet to fully understand why there is a need for "Strict mode" and "Sloppy mode" in javascript
 - **Link to Code:** [Link to code or relevant files.]
 
-### Day 2: [Date]
-[Repeat the format for each day as you progress through the course.]
-
-## Projects
+## Projects 
 
 1. **[Project Name 1](Projects/ProjectName1):** Brief description.
 2. **[Project Name 2](Projects/ProjectName2):** Brief description.
-[Add more projects as you complete them.]
+[I will add more projects as I complete them.]
 
 ## Resources
 
@@ -53,4 +50,4 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 ## Acknowledgments
 
 - **Instructor:** [Mention any acknowledgments or thanks to the instructor.]
-- **Community:** [Shoutout to any online communities, forums, or peers who've supported your journey.]
+- **Community:** [Shoutout to any online communities, forums, or peers who've supported my journey.]
