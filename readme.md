@@ -39,6 +39,13 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 - **Challenges Faced:** No challenges faced so far
 - **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day2
 
+### Day 3: 20/12/2023
+
+- **Today's Progress:** I am able to use typeof function to identify data and I understand basic math operators
+- **Topics Covered:** typeof function and basic math operators
+- **Challenges Faced:** No challenges faced so far
+- **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day3
+
 ## Projects 
 
 1. **[Project Name 1](Projects/ProjectName1):** Brief description.
