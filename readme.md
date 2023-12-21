@@ -46,6 +46,13 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 - **Challenges Faced:** No challenges faced so far
 - **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day3
 
+  ### Day 4: 21/12/2023
+
+- **Today's Progress:** I am able to complete assignment on Variable and alert
+- **Topics Covered:** Assignment
+- **Challenges Faced:** No challenges faced so far
+- **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day4
+
 ## Projects 
 
 1. **[Project Name 1](Projects/ProjectName1):** Brief description.
