@@ -55,15 +55,21 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 
 ### Day 5: 22/12/2023
 
-- **Today's Progress:** I can use the prompt keywork which allows users to give feedback to a question, i also learnt the conditional statement while also using the ternary operator.
+- **Today's Progress:** I can use the prompt keyword which allows users to give feedback to a question, i also learnt the conditional statement while also using the ternary operator.
 - **Topics Covered:** Conditional Statement, Prompting using the keyword PROMPT
 - **Challenges Faced:** I am yet to fully grasp the Ternary operator useage. 
 - **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day5
 
+### Day 6: 23/12/2023
+
+- **Today's Progress:** today, I learnt Logical operators using the OR, AND and NOT while also not forgetting the  Nullish coalescing Operator. I also learnt the use of modal view with the alert, prompt and confirm keywords to help with mini screen when debugging or working on codes.
+- **Topics Covered:** Logical Operators, Alert, Prompt and Confirm
+- **Challenges Faced:** I am yet to fully understand the usage of the Nullish Coalescing Operator. 
+- **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day6
+
 ## Projects 
 
-1. **[Project Name 1](Projects/ProjectName1):** Brief description.
-2. **[Project Name 2](Projects/ProjectName2):** Brief description.
+1. **[Side Project](https://github.com/motunmarteen/100DaysOfJavascript/tree/main/sideProjects):** Solving Javascript challenges with the little I have learnt so far.
 [I will add more projects as I complete them.]
 
 ## Resources
