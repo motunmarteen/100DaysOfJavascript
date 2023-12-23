@@ -1,4 +1,4 @@
-These are little programming work t solidify my javascript skills.
+These are little programming work to solidify my javascript skills.
 
 
 1. Write a program that checks if a given number is positive, negative, or zero.
