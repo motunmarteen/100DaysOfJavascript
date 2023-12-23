@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leap Year</title>
+</head>
+<body>
+    <h1>Algorithm and flowchart to check whether a given year is a leap year or not</h1>
+    <h2>Create a program that determines whether a given year is a leap year.</h2>
+    <p>There are 365 days in a year. A leap year is a year that has 366 days, instead of 365 days. Hence, a leap year has one day extra and occurs every four years. We can check whether a given year is a leap year or not with the following logic. We usually think that a leap year will be divisible by 4, but apart from this, there are other conditions to do this checking. A year will be a leap year only if:</p>
+<ol>
+    <li>It is divisible by 4 and not divisible by 100</li>
+    <li>It is divisible by 400</li>
+</ol>
+
+<p>
+    Let us consider an example:
+    2020/4 = 505.
+    Therefore, 2020 is a leap year.
+</p>
+
+<p>
+    2000/100 = 20, 2000/400 = 5 and 2000/4 = 500.
+    Therefore, 2000 is a leap year
+</p>.
+
+<p>
+    2022/4 = 505.5
+    Therefore, 2022 is not a leap year.
+</p>
+
+<p>Let us have a look at the algorithm and flowchart to check whether a given year is a leap year or not.</p>
+
+<h2>Algorithm to check whether a given year is a leap year or not:
+</h2>
+<code>
+    <ol>
+        <li>Step 1: Start</li>
+        <li>Step 2: Read the value of the year to be checked from the user</li>
+        <li>Step 3: Assign the value to a variable, say ‘year’</li>
+        <li>Step 4: If (year%4 = 0 AND year%100 != 0) OR year%400 = 0, then:</li>
+            <span>Step 4.1: Display “Leap Year”</span>
+        <li>Step 5: Else</li>
+            <span>Step 5.1: Display “Not Leap Year”</span>
+        <li>Step 6: Stop</li>
+    </ol>
+</code>
+
+    <script src="leapYear.js"></script>
+</body>
+</html>
