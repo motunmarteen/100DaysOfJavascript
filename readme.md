@@ -74,7 +74,8 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 
 ## Resources
 
-- **Books:** List any recommended books or resources for further learning.
+- **Books:** https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- **Books:** https://javascript30.com/
 - **Articles:** Links to articles or blog posts that complement the course material.
 
 ## Notes and Reflections
