@@ -19,12 +19,12 @@ These are little programming work to solidify my javascript skills.
 
 9. Write a program that checks if a user is an adult (age 21 and above).
 
-Implement a function that checks if a given string is a valid email address.
+10. Implement a function that checks if a given string is a valid email address.
 
-10. Create a program that checks if a word is a palindrome.
+11. Create a program that checks if a word is a palindrome.
 
-11. Implement a program that categorizes a given number as prime or composite.
+12. Implement a program that categorizes a given number as prime or composite.
 
-12. Create a program that checks if a year is within the 21st century.
+13. Create a program that checks if a year is within the 21st century.
 
-13. Write a program that prints "Hello" if a user's name is "John", otherwise prints "Greetings".
+14. Write a program that prints "Hello" if a user's name is "John", otherwise prints "Greetings".
