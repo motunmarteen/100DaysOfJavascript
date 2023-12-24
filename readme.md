@@ -67,6 +67,20 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 - **Challenges Faced:** I am yet to fully understand the usage of the Nullish Coalescing Operator. 
 - **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day6
 
+### Day 7: 24/12/2023
+
+- **Today's Progress:** I am able to complete assignment on If and Else statement
+- **Topics Covered:** Assignment
+- **Challenges Faced:** No challenges faced so far
+- **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day7
+
+### Day 8: 25/12/2023
+
+- **Today's Progress:** I am able to complete assignment on If and Else statement
+- **Topics Covered:** Assignment
+- **Challenges Faced:** No challenges faced so far
+- **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day8
+
 ## Projects 
 
 1. **[Side Project](https://github.com/motunmarteen/100DaysOfJavascript/tree/main/sideProjects):** Solving Javascript challenges with the little I have learnt so far.
