@@ -18,6 +18,7 @@ These are little programming work to solidify my javascript skills.
 8. Create a program that calculates the discount percentage based on the purchase amount.
 
 9. Write a program that checks if a user is an adult (age 21 and above).
+
 Implement a function that checks if a given string is a valid email address.
 
 10. Create a program that checks if a word is a palindrome.
