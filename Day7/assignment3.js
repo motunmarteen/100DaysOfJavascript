@@ -18,6 +18,8 @@ if (login == 'Employee') {/*
   message = '';/*
 }
 */
+// SOLUTION
+
 let message =
   login === 'Employee' ? 'Hello' :
   login === 'Director' ? 'Greetings' :
