@@ -7,20 +7,22 @@
 // The syntax are all in the bracket before the 
 // block of code to be executed.
 
-/*
+
 for (let a = 0; a < 10; a++) {
     alert("Motun" + a);
     // if (a == 5) break;
 }
-*/
+
 
 // Write a JavaScript for loop that prints all the even numbers from 1 to 10 to the console.
 
-/*
 for (n = 2; n <= 10; n += 2) {
     alert(n)
 }
-*/
+
+
+
+
 
 
 for (let i = 1; i <= 17; i+=2) {
@@ -43,3 +45,4 @@ for (let a = 4; a <= 20; a += 4) {
 // Note that the break keyword completely exits the loop
 // while the continue keyword skips the loop and continues
 
+// Continue directive will help us reduce nesting

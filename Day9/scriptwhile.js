@@ -6,23 +6,23 @@ while (condition) {
 }
 */
 
-/*
+
 let i = 3;
 while (i) {
     alert(i);
     i--;
 }
 alert("The loop has ended")
-*/
 
-/*
+
+
 let a = 0;
 while (a < 3) {
     alert(a);
     a++;
 }
 alert("The loop has ended")
-*/
+
 
 let sum = 0;
 
