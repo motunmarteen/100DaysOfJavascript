@@ -96,6 +96,19 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 - **Challenges Faced:** No challenges faced so far
 - **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day10
 
+### Day 11: 25/12/2023
+
+- **Today's Progress:** Assignment
+- **Topics Covered:** Assignment
+- **Challenges Faced:** No challenges faced so far
+- **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day11
+
+  ### Day 12: 25/12/2023
+
+- **Today's Progress:** Assignment
+- **Topics Covered:** Assignment
+- **Challenges Faced:** No challenges faced so far
+- **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day12
 
 ## Projects 
 
