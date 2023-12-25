@@ -81,6 +81,13 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 - **Challenges Faced:** No challenges faced so far
 - **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day8
 
+
+### Day 9: 25/12/2023
+
+- **Today's Progress:** I learnt loops: For loop and While Loop using break, continue and label.
+- **Topics Covered:** For Loop, While Loop, Break, Continue, Name label for loop when nesting
+- **Challenges Faced:** No challenges faced so far
+- **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day9
 ## Projects 
 
 1. **[Side Project](https://github.com/motunmarteen/100DaysOfJavascript/tree/main/sideProjects):** Solving Javascript challenges with the little I have learnt so far.
