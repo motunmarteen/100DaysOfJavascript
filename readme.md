@@ -118,11 +118,10 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 ## Resources
 
 - **Books:** https://developer.mozilla.org/en-US/docs/Web/JavaScript
-- **Books:** https://javascript30.com/
+- **Website:** https://javascript30.com/
 - **Video:** https://www.youtube.com/watch?v=Kn06785pkJg&t=365s
 - **Video:** https://www.youtube.com/watch?v=5fb2aPlgoys&t=137s
-- **ARticle** https://chat.openai.com/share/1689b403-84e5-4d06-bed9-2a419c09bc05
-- **Articles:** Links to articles or blog posts that complement the course material.
+- **Articles:** https://chat.openai.com/share/1689b403-84e5-4d06-bed9-2a419c09bc05
 
 ## Notes and Reflections
 
