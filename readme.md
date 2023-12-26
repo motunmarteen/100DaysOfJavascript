@@ -110,7 +110,7 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 - **Challenges Faced:** No challenges faced so far
 - **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day12
 
-  ### Day 13: 26/12/2023
+### Day 13: 26/12/2023
 
 - **Today's Progress:** I learn the different types of functions
 - **Topics Covered:** Function Expression, Declaration, Return, Arrow Function.
