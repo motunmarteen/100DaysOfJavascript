@@ -117,6 +117,13 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 - **Challenges Faced:** No challenges faced so far
 - **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day13
 
+### Day 14: 27/12/2023
+
+- **Today's Progress:** I learn the different types of functions
+- **Topics Covered:** Function Expression, Declaration, Return, Arrow Function continuation.
+- **Challenges Faced:** No challenges faced so far
+- **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day14
+
 ## Projects 
 
 1. **[Side Project](https://github.com/motunmarteen/100DaysOfJavascript/tree/main/sideProjects):** Solving Javascript challenges with the little I have learnt so far.
