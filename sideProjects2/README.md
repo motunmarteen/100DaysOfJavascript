@@ -4,7 +4,7 @@
 
 3. Nested Stars: Implement a nested loop to print a pattern of stars in the shape of a right-angled triangle.
 
-4.Even Squares: Print the squares of even numbers from 1 to 15 using a loop.
+4. Even Squares: Print the squares of even numbers from 1 to 15 using a loop.
 
 5. Decrementing Even Numbers: Write a loop to print even numbers in descending order from 20 to 2.
 
