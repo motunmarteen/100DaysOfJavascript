@@ -1,6 +1,6 @@
 function isPrime(number) {
     if (number <= 1) {
-      return false; // Numbers less than or equal to 1 are not prime
+      return false; //cd  Numbers less than or equal to 1 are not prime
     } else {
       for (let i = 2; i < number; i++) {
         if (number % i === 0) {
