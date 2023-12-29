@@ -124,6 +124,13 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 - **Challenges Faced:** No challenges faced so far
 - **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day14
 
+### Day 15: 28/12/2023
+
+- **Today's Progress:** I learn Objects in JavaScript
+- **Topics Covered:** Objects, Syntaz, key and Value, Deleting.
+- **Challenges Faced:** No challenges faced so far
+- **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day15
+
 ## Projects 
 
 1. **[Side Project](https://github.com/motunmarteen/100DaysOfJavascript/tree/main/sideProjects):** Solving Javascript challenges with the little I have learnt so far.
