@@ -131,6 +131,20 @@ Welcome to my repository for the "100 Days of Coding Vanilla JavaScript" course 
 - **Challenges Faced:** No challenges faced so far
 - **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day15
 
+### Day 16: 29/12/2023
+
+- **Today's Progress:** Assignment on Arrow Function
+- **Topics Covered:** Arrow function Assignment
+- **Challenges Faced:** No challenges faced so far
+- **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day16
+
+### Day 17: 29/12/2023
+
+- **Today's Progress:** I learn Objects in JavaScript. Copying and Referencing
+- **Topics Covered:** Objects, Syntaz, key and Value, Deleting, Copying, Referencing
+- **Challenges Faced:** No challenges faced so far
+- **Link to Code:** https://github.com/motunmarteen/100DaysOfJavascript/tree/main/Day17
+
 ## Projects 
 
 1. **[Side Project](https://github.com/motunmarteen/100DaysOfJavascript/tree/main/sideProjects):** Solving Javascript challenges with the little I have learnt so far.
